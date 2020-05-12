@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D3D18F9246B076A003199F9 /* ProductCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D18F8246B076A003199F9 /* ProductCellCollectionViewCell.swift */; };
 		4D820E0E2464A66800E735B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D820E0D2464A66800E735B6 /* AppDelegate.swift */; };
 		4D820E102464A66800E735B6 /* CategoriesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D820E0F2464A66800E735B6 /* CategoriesVC.swift */; };
 		4D820E132464A66800E735B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D820E112464A66800E735B6 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D3D18F8246B076A003199F9 /* ProductCellCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCellCollectionViewCell.swift; sourceTree = "<group>"; };
 		4D820E0A2464A66800E735B6 /* coder-swag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "coder-swag.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D820E0D2464A66800E735B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D820E0F2464A66800E735B6 /* CategoriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesVC.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				4D820E222468AB0000E735B6 /* CategoryCell.swift */,
+				4D3D18F8246B076A003199F9 /* ProductCellCollectionViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				4D820E0E2464A66800E735B6 /* AppDelegate.swift in Sources */,
 				4D820E232468AB0000E735B6 /* CategoryCell.swift in Sources */,
 				4D820E25246AB7A300E735B6 /* Category.swift in Sources */,
+				4D3D18F9246B076A003199F9 /* ProductCellCollectionViewCell.swift in Sources */,
 				4D820E28246ABCFE00E735B6 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
