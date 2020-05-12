@@ -10,7 +10,6 @@ import UIKit
 
 class CategoriesVC: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
-    
     @IBOutlet weak var categoryTable: UITableView!
 
     override func viewDidLoad() {
