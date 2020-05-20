@@ -1,7 +1,7 @@
 //
-//  ProductCellCollectionViewCell.swift
+//  ProductCell.swift
 //  coder-swag
-//
+//ProductCellCollectionViewCell
 //  Created by Aadil Bachh on 12/05/2020.
 //  Copyright © 2020 Aadil Bachh. All rights reserved.
 //
